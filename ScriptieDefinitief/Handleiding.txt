@@ -1,0 +1,24 @@
+In deze map zijn alle bestanden van de scriptie samengevoegd. 
+Er zijn verschillende files in dit bestand te vinden:
+1. De scriptie
+2. De simulatie
+3. De code
+4. De data
+
+1. De scriptie
+De scriptie staat in de grote map en is "Scriptie_6212573" genoemd.
+
+2. De simulatie
+De simulatie is te vinden bij Assets -> Scenes -> SampleScenes. Dit opent (mits 
+Unity is geinstalleerd) de omgeving waar de simulatie in is gedaan.
+
+3. De code
+De code is ook te vinden bij Assets. Deze kan in principe worden geopend op de
+gebruikelijke manier.
+
+4. De data
+De data is ook te vinden in de grote map "ScriptieDefinitief". Deze kan, mocht
+dat nodig zijn, worden geopend in R en nageanalyseerd worden. Hiervoor kan de 
+map "Data-Interpretatie" worden geraadpleegd.
+
+Veel succes!

@@ -1,0 +1,24 @@
+All files of the thesis are combined in this folder.
+There are several files in this folder:
+1. The thesis
+2. The simulation
+3. The code
+4. The data
+
+1. The thesis
+The thesis is in the large folder and is called "Scriptie_6212573".
+
+2. The simulation
+The simulation can be found at Assets -> Scenes -> SampleScenes. This opens (if
+Unity is installed) the environment in which the simulation is done.
+
+3. The code
+The code can also be found under the map "Assets". This can be opened in the usual 
+manner.
+
+4. The dates
+The data of the simulation can be found in the large folder "ScriptieDefinitief". This 
+makes it possible to open the data in R and re-analyze it. The data can be found in the
+folder "Data Interpretation".
+
+Good luck!
